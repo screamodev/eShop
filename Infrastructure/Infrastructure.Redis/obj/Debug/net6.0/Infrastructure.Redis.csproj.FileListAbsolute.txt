@@ -1,0 +1,16 @@
+/Users/arseniiyurchenko/RiderProjects/hw/Homeworks/Module6HW2/Infrastructure/Infrastructure.Redis/bin/Debug/net6.0/Infrastructure.Redis.deps.json
+/Users/arseniiyurchenko/RiderProjects/hw/Homeworks/Module6HW2/Infrastructure/Infrastructure.Redis/bin/Debug/net6.0/Infrastructure.Redis.dll
+/Users/arseniiyurchenko/RiderProjects/hw/Homeworks/Module6HW2/Infrastructure/Infrastructure.Redis/bin/Debug/net6.0/Infrastructure.Redis.pdb
+/Users/arseniiyurchenko/RiderProjects/hw/Homeworks/Module6HW2/Infrastructure/Infrastructure.Redis/bin/Debug/net6.0/Infrastructure.dll
+/Users/arseniiyurchenko/RiderProjects/hw/Homeworks/Module6HW2/Infrastructure/Infrastructure.Redis/bin/Debug/net6.0/Infrastructure.pdb
+/Users/arseniiyurchenko/RiderProjects/hw/Homeworks/Module6HW2/Infrastructure/Infrastructure.Redis/obj/Debug/net6.0/Infrastructure.Redis.csproj.AssemblyReference.cache
+/Users/arseniiyurchenko/RiderProjects/hw/Homeworks/Module6HW2/Infrastructure/Infrastructure.Redis/obj/Debug/net6.0/Infrastructure.Redis.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arseniiyurchenko/RiderProjects/hw/Homeworks/Module6HW2/Infrastructure/Infrastructure.Redis/obj/Debug/net6.0/Infrastructure.Redis.AssemblyInfoInputs.cache
+/Users/arseniiyurchenko/RiderProjects/hw/Homeworks/Module6HW2/Infrastructure/Infrastructure.Redis/obj/Debug/net6.0/Infrastructure.Redis.AssemblyInfo.cs
+/Users/arseniiyurchenko/RiderProjects/hw/Homeworks/Module6HW2/Infrastructure/Infrastructure.Redis/obj/Debug/net6.0/Infrastructure.Redis.csproj.CoreCompileInputs.cache
+/Users/arseniiyurchenko/RiderProjects/hw/Homeworks/Module6HW2/Infrastructure/Infrastructure.Redis/obj/Debug/net6.0/Infrastructure.Redis.sourcelink.json
+/Users/arseniiyurchenko/RiderProjects/hw/Homeworks/Module6HW2/Infrastructure/Infrastructure.Redis/obj/Debug/net6.0/Infrastructure.Redis.dll
+/Users/arseniiyurchenko/RiderProjects/hw/Homeworks/Module6HW2/Infrastructure/Infrastructure.Redis/obj/Debug/net6.0/refint/Infrastructure.Redis.dll
+/Users/arseniiyurchenko/RiderProjects/hw/Homeworks/Module6HW2/Infrastructure/Infrastructure.Redis/obj/Debug/net6.0/Infrastructure.Redis.pdb
+/Users/arseniiyurchenko/RiderProjects/hw/Homeworks/Module6HW2/Infrastructure/Infrastructure.Redis/obj/Debug/net6.0/ref/Infrastructure.Redis.dll
+/Users/arseniiyurchenko/RiderProjects/hw/Homeworks/Module6HW2/Infrastructure/Infrastructure.Redis/obj/Debug/net6.0/Infrastr.9FC269A9.Up2Date

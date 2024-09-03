@@ -1,0 +1,8 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=134bb6b8_002D5f72_002D45da_002Db2f0_002D1f1494b65d12/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="All tests from &amp;lt;Catalog&amp;gt;\&amp;lt;Catalog.UnitTests&amp;gt;" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;Or&gt;
+    &lt;Project Location="/Users/arseniiyurchenko/RiderProjects/hw/Homeworks/Module6HW2/Catalog/Catalog.UnitTests" Presentation="&amp;lt;Catalog&amp;gt;\&amp;lt;Catalog.UnitTests&amp;gt;" /&gt;
+    &lt;ProjectFile&gt;F0ACDD7A-73F0-4D7B-984D-F4796121A6E5/d:Services/f:BasketServiceTest.cs&lt;/ProjectFile&gt;
+    &lt;ProjectFile&gt;A949C6E8-A71A-444A-B6B1-820699569791/d:Services/f:OrderServiceTest.cs&lt;/ProjectFile&gt;
+  &lt;/Or&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
